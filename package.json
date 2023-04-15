@@ -1,0 +1,10 @@
+{
+  "name": "zurg",
+  "version": "1.0.0",
+  "description": "webdav server containing an infinite library of movies and tv shows",
+  "main": "index.js",
+  "repository": "git@github.com:debridmediamanager/zurg.git",
+  "author": "Ben Adrian Sarmiento <me@bensarmiento.com>",
+  "license": "MIT",
+  "private": false
+}
